@@ -17,6 +17,7 @@ public class FonctionTriTab {
 			tableauDeuxSemaines[i] = tableauBouffe.get(random);
 			System.out.println("tableau random : "+tableauDeuxSemaines[i]);
 		}
+		//test de github coucou ta mere caca
 		
 		return tableauDeuxSemaines;
 	}
